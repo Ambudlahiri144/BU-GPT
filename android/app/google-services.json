@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796401619533",
+    "project_id": "bu-gpt",
+    "storage_bucket": "bu-gpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796401619533:android:a8c9f2b13a8767dc5c4204",
+        "android_client_info": {
+          "package_name": "com.company.flutterai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81urP2fC4nBmUJB5HRbrBBNgKmm9U3XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
