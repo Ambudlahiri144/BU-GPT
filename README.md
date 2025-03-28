@@ -5,7 +5,7 @@ BU-GPT is a Flutter-based mobile application utilizing OpenAI's API to offer sea
 # Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-# Archtecture:
+# Architecture:
 ![image](https://github.com/user-attachments/assets/80d2e1f7-58fe-43a7-87fe-25484e64d767)
 
 
